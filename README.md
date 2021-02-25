@@ -1,5 +1,4 @@
-### <a href="https://cooltext.com"><img src="https://images.cooltext.com/5508823.png" width="420" height="140" alt="Hi there 2 " /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Free Graphics Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=3776147315">Edit Image</a>
+### https://images.cooltext.com/5508823.png
 
 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
