@@ -5,6 +5,8 @@
 
 
 Estudiante del Instituto Tecnologico de Tijuana
+- 🌱Actualmente aprendiendo python
+- 📫 Especializandome en Base de datos 
 <!--
 **Ignacio123456789/Ignacio123456789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
